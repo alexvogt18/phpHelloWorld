@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <title>Baseball Central</title>
+      
     </head>
     <nav>
       
